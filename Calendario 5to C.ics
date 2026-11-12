@@ -360,6 +360,7 @@ DTSTAMP:20260825T025113Z
 DTSTART;TZID=America/Santiago:20260828T134000
 DTEND;TZID=America/Santiago:20260828T142000
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261211T235959Z
+EXDATE;TZID=America/Santiago:20261120T134000
 EXDATE;TZID=America/Santiago:20261016T134000
 SUMMARY:Inglés
 LOCATION:Colegio San Ignacio El Bosque
@@ -371,6 +372,7 @@ DTSTAMP:20260825T025113Z
 DTSTART;TZID=America/Santiago:20260828T143000
 DTEND;TZID=America/Santiago:20260828T151000
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261211T235959Z
+EXDATE;TZID=America/Santiago:20261120T143000
 EXDATE;TZID=America/Santiago:20261016T143000
 SUMMARY:P&F
 LOCATION:Colegio San Ignacio El Bosque
@@ -473,6 +475,15 @@ DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Último día de clases
 DESCRIPTION:Fecha publicada en el calendario oficial del colegio.
+LOCATION:Colegio San Ignacio El Bosque
+END:VEVENT
+BEGIN:VEVENT
+UID:sieb-20261120-salida-anticipada-1330@calendario-5to-c
+DTSTAMP:20261112T220717Z
+DTSTART;TZID=America/Santiago:20261120T133000
+DTEND;TZID=America/Santiago:20261120T134500
+SUMMARY:Salida anticipada 13:30 — suspensión actividades
+DESCRIPTION:El colegio suspende todas las actividades a las 13:30 por organización de graduación IV medio. Incluye talleres y deportes. Fuente: https://sanignacio.cl/boletin-martes-10-de-noviembre/
 LOCATION:Colegio San Ignacio El Bosque
 END:VEVENT
 END:VCALENDAR
