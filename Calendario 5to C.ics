@@ -495,4 +495,13 @@ SUMMARY:Reunión de cierre — 5.º básico (estudiantes y apoderados)
 DESCRIPTION:Reunión de cierre de año con estudiantes y apoderados de 5.º básico. Fuente: https://sanignacio.cl/boletin-martes-10-de-noviembre/
 LOCATION:Colegio San Ignacio El Bosque
 END:VEVENT
+BEGIN:VEVENT
+UID:sieb-20261125-encuentro-comunitario-mes-de-maria@calendario-5to-c
+DTSTAMP:20261118T220000Z
+DTSTART;TZID=America/Santiago:20261125T075500
+DTEND;TZID=America/Santiago:20261125T083000
+SUMMARY:Encuentro comunitario — Mes de María
+DESCRIPTION:Encuentro para toda la comunidad escolar. Fuente: https://sanignacio.cl/boletin-esei-martes-17-de-noviembre/
+LOCATION:Colegio San Ignacio El Bosque
+END:VEVENT
 END:VCALENDAR
